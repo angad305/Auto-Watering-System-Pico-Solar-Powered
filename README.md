@@ -3,6 +3,8 @@ Auto Watering System - Pico + Solar Powered
 
 ![Setup Image v2](https://github.com/user-attachments/assets/ea062719-2a01-42e9-81f4-9196138a8feb)
 
+*in v2 of the setup diagram, i am powering pico now from the solar cell header instead of usb out due to pico not coming back to power when the battery is depleted. Since we are powering using vsys pin, remember, the soil sensor will not get power from vbus anymore, hence shifted it to the solar cell 5v pin.
+
 Parts Used:
 1. Raspberry Pi Pico
 2. Gravity: MOSFET Power Controller ( https://www.dfrobot.com/product-1567.html )
