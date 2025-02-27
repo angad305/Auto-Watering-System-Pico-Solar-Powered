@@ -1,7 +1,7 @@
 # Auto-Watering-System-Pico-Solar-Powered
 Auto Watering System - Pico + Solar Powered
 
-![Setup Image](https://github.com/user-attachments/assets/0d66dbb4-171a-482e-acdf-64f6b4828188)
+![Setup Image v2](https://github.com/user-attachments/assets/ea062719-2a01-42e9-81f4-9196138a8feb)
 
 Parts Used:
 1. Raspberry Pi Pico
